@@ -1,5 +1,3 @@
-This description assumes that you have read the attached letter from Prof Hillery. That letter contains links to a number of important data sources.
-
 The first challenge relates to Subway Hourly Ridership: https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-Beginning-February-202/wujg-7c2s/about_data 
 
 Make a scatterplot that has one point for each subway station in NYC using latitude and longitude to plot the points. Each point should be colored on a spectrum (eg red to green) that reflects the average number of riders per hour at that station. 
