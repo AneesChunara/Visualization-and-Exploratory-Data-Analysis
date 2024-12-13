@@ -7,3 +7,6 @@ Bonus: Make an animation that colors the points based on hourly ridership over t
 Second challenge:  Link the crime data (specifically turnstype jumping) to the subway data. We started doing this in class as a lab exercise. The new dataset should enrich the "arrests" dataset such that a new column (the name of the closest subway station) is incorporated. Also only rows pertaining to turnstyle jumping should be included in the new dataset. Please export your resulting dataframe to a csv. 
 
 Here is a link to the arrests dataset: https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u/about_data
+
+
+[ LINK TO DATASET USED IN THE NOTEBOOK: https://mega.nz/file/ZFYnhAzS#Enm8s5Oz0kuBXvDfO8s6phdfylqG-QFruLJFu9JV4Oc ]
